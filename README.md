@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliHaider0781
 - 👀 I’m interested in Development and machine learning.
-- 🌱 I’m currently learning JSON.
+- 🌱 I’m currently learning DataScience.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me, E-MAIL:alihaidercom385@gmail.com.
 
