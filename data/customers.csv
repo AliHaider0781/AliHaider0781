@@ -1,0 +1,11 @@
+customer_id,name,segment,signup_date,region,channel
+C001,Ayesha Khan,Repeat,2023-01-12,Punjab,Instagram
+C002,Omar Siddiqui,New,2023-03-05,Sindh,Google Ads
+C003,Sara Malik,Repeat,2022-11-20,Islamabad,Referral
+C004,Hassan Ali,Loyal,2022-07-15,Punjab,Email
+C005,Noor Fatima,New,2023-05-03,Balochistan,Organic
+C006,Zain Iqbal,Repeat,2023-02-21,KP,Influencer
+C007,Alina Qureshi,Loyal,2022-09-09,Sindh,Instagram
+C008,Rahil Abbas,New,2023-06-18,Punjab,Google Ads
+C009,Mehar Khan,Repeat,2023-04-02,Islamabad,Email
+C010,Usman Raza,Loyal,2022-08-27,Punjab,Referral

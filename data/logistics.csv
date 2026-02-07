@@ -1,0 +1,11 @@
+shipment_id,order_id,carrier,status,ship_date,delivery_date,warehouse,region,tracking_number
+S001,O1001,DHL,Delivered,2024-01-11,2024-01-14,Lahore,Punjab,DHL-991001
+S002,O1002,Leopards,Delivered,2024-01-13,2024-01-16,Karachi,Sindh,LEO-991002
+S003,O1003,TCS,In Transit,2024-01-16,,Islamabad,Islamabad,TCS-991003
+S004,O1004,DHL,Delivered,2024-01-18,2024-01-21,Lahore,Punjab,DHL-991004
+S005,O1005,BlueEx,Pending,2024-01-21,,Quetta,Balochistan,BLX-991005
+S006,O1006,TCS,Delivered,2024-01-23,2024-01-26,Peshawar,KP,TCS-991006
+S007,O1007,Leopards,Delivered,2024-01-25,2024-01-28,Karachi,Sindh,LEO-991007
+S008,O1008,DHL,In Transit,2024-01-27,,Lahore,Punjab,DHL-991008
+S009,O1009,BlueEx,Pending,2024-01-29,,Islamabad,Islamabad,BLX-991009
+S010,O1010,TCS,Delivered,2024-01-31,2024-02-03,Lahore,Punjab,TCS-991010

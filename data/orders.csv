@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_id,quantity,discount,channel,warehouse
+O1001,C001,2024-01-10,P001,2,0.10,Instagram,Lahore
+O1002,C002,2024-01-12,P003,1,0.05,Google Ads,Karachi
+O1003,C003,2024-01-15,P002,3,0.00,Referral,Islamabad
+O1004,C004,2024-01-17,P005,1,0.10,Email,Lahore
+O1005,C005,2024-01-20,P004,2,0.00,Organic,Quetta
+O1006,C006,2024-01-22,P006,1,0.15,Influencer,Peshawar
+O1007,C007,2024-01-24,P001,1,0.05,Instagram,Karachi
+O1008,C008,2024-01-26,P002,2,0.10,Google Ads,Lahore
+O1009,C009,2024-01-28,P007,1,0.00,Email,Islamabad
+O1010,C010,2024-01-30,P003,2,0.05,Referral,Lahore
+O1011,C001,2024-02-02,P005,1,0.10,Instagram,Lahore
+O1012,C004,2024-02-05,P004,2,0.05,Email,Lahore
+O1013,C006,2024-02-09,P006,1,0.10,Influencer,Peshawar
+O1014,C007,2024-02-11,P002,1,0.00,Instagram,Karachi
+O1015,C003,2024-02-14,P001,2,0.10,Referral,Islamabad

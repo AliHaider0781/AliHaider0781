@@ -1,0 +1,8 @@
+product_id,product_name,category,cost_price,retail_price
+P001,Vitamin D3 5000IU,Vitamins,5.50,12.99
+P002,Omega-3 Fish Oil,Wellness,7.20,16.99
+P003,Probiotic Complex,Gut Health,8.00,18.50
+P004,Magnesium Glycinate,Minerals,6.50,14.99
+P005,Collagen Peptides,Beauty,9.50,21.00
+P006,Pre-Workout Boost,Performance,11.00,25.00
+P007,Herbal Sleep Aid,Recovery,6.80,15.99
