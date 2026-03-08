@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliHaider.
 - 👀 I’m a Software Engineer.
-- 🌱 I’m currently working on my AI Autopilot Software 'Zentra'.
+- 🌱 I’m currently working on my AI Autopilot Software.
 - 📫 How to reach me; G-mail: alihaidercom385@gmail.com.
 
 <!---
