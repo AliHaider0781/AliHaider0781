@@ -63,9 +63,10 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 
 <p align="center">
   <a href="https://github.com/AliHaider0781">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&theme=dark" alt="Ali Haider's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" alt="Ali Haider's GitHub Stats" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/AliHaider0781">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaider0781&theme=dark" alt="Ali Haider's Commit Streak" />
@@ -74,6 +75,6 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 
 <p align="center">
   <a href="https://github.com/AliHaider0781">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=8&theme=dark&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=8&theme=dark&layout=compact&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
