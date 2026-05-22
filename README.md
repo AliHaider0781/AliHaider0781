@@ -5,9 +5,9 @@
 I build full-stack systems where AI does the heavy lifting. From React frontends to Python backends, LLM pipelines to real-time voice agents — I handle the full stack and ship things that work in production.
 
 *   🚀 **Currently Building:** CMS Autopilot, an AI-powered call center platform using Next.js, SignalWire, ElevenLabs, and GPT-4o. Every layer, built from scratch.
-*   🛠️ **Actively Working On:** [Accountivia Hub](http://accountiviahub.com)
+*   🛠️ **Actively Working On:** [Accountivia Hub](https://accountiviahub.com)
 *   🌍 **Location:** Pakistan
-*   🖥️ **Portfolio:** [alihaider-dev.netlify.app](http://alihaider-dev.netlify.app/)
+*   🖥️ **Portfolio:** [alihaider-dev.netlify.app](https://alihaider-dev.netlify.app/)
 *   ✉️ **Contact:** [alihaidercom385@gmail.com](mailto:alihaidercom385@gmail.com)
 
 ---
@@ -97,25 +97,17 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 
 ## 📊 GitHub Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="http://www.github.com/AliHaider0781">
-        <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="100%" alt="AliHaider0781's GitHub stats" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="http://www.github.com/AliHaider0781">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaider0781&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br />
-      <a href="https://github.com/AliHaider0781">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" width="60%" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AliHaider0781">
+    <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Ali Haider's GitHub Stats" height="195px" />
+  </a>
+  <a href="https://github.com/AliHaider0781">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaider0781&theme=dark&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="Ali Haider's Commit Streak" height="195px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AliHaider0781">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165px" />
+  </a>
+</p>
