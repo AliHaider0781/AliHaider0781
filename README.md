@@ -63,15 +63,17 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 
 <p align="center">
   <a href="https://github.com/AliHaider0781">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Ali Haider's GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AliHaider0781&show_icons=true&count_private=true&theme=dark" alt="Ali Haider's GitHub Stats" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/AliHaider0781">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaider0781&theme=tokyonight&hide_border=true" alt="Ali Haider's Commit Streak" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHaider0781&theme=dark" alt="Ali Haider's Commit Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AliHaider0781">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=8&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="140px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider0781&langs_count=8&theme=dark&layout=compact" alt="Top Languages" />
   </a>
 </p>
