@@ -31,7 +31,7 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 ### Databases & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb,mysql,oracle,aws,linux,git,vscode" alt="Database and DevOps Stack" />
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb,mysql,aws,linux,git,vscode" alt="Database and DevOps Stack" />
   </a>
 </p>
 
