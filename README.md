@@ -16,50 +16,55 @@ I build full-stack systems where AI does the heavy lifting. From React frontends
 
 ### Frontend & Core
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="36" height="36" alt="shadcn/ui" />
+  <img src="icons/html5.svg" width="36" height="36" alt="HTML5" />
+  <img src="icons/css3.svg" width="36" height="36" alt="CSS3" />
+  <img src="icons/javascript.svg" width="36" height="36" alt="JavaScript" />
+  <img src="icons/typescript.svg" width="36" height="36" alt="TypeScript" />
+  <img src="icons/react.svg" width="36" height="36" alt="React" />
+  <img src="icons/nextjs.svg" width="36" height="36" alt="Next.js" />
+  <img src="icons/tailwind.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="icons/vite.svg" width="36" height="36" alt="Vite" />
+  <img src="icons/shadcn.svg" width="36" height="36" alt="shadcn/ui" />
 </p>
 
 ### Backend, AI & APIs
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
+  <img src="icons/python.svg" width="36" height="36" alt="Python" />
+  <img src="icons/nodejs.svg" width="36" height="36" alt="Node.js" />
+  <img src="icons/express.svg" width="36" height="36" alt="Express" />
+  <img src="icons/fastapi.svg" width="36" height="36" alt="FastAPI" />
+  <img src="icons/django.svg" width="36" height="36" alt="Django" />
+  <img src="icons/graphql.svg" width="36" height="36" alt="GraphQL" />
 </p>
 
 ### Databases & DevOps
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
+  <img src="icons/supabase.svg" width="36" height="36" alt="Supabase" />
+  <img src="icons/firebase.svg" width="36" height="36" alt="Firebase" />
+  <img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" />
+  <img src="icons/mysql.svg" width="36" height="36" alt="MySQL" />
+  <img src="icons/aws.svg" width="36" height="36" alt="AWS" />
+  <img src="icons/linux.svg" width="36" height="36" alt="Linux" />
+  <img src="icons/git.svg" width="36" height="36" alt="Git" />
+  <img src="icons/vscode.svg" width="36" height="36" alt="VS Code" />
 </p>
+
+Add `icons/linux.svg`:
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="#FCC624" d="M12 2C6 2 2 7 2 12s4 8 10 8 10-3 10-8-4-10-10-10zm0 14c-1 0-2-1-2-2s1-2 2-2 2 1 2 2-1 2-2 2z"/></svg>
+```
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" alt="CodeSandbox" />
+  <img src="icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  <img src="icons/github.svg" width="32" height="32" alt="GitHub" />
+  <img src="icons/gitlab.svg" width="32" height="32" alt="GitLab" />
+  <img src="icons/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
+  <img src="icons/codesandbox.svg" width="32" height="32" alt="CodeSandbox" />
 </p>
 
 - LinkedIn: [ali-haider-eng](https://www.linkedin.com/in/ali-haider-eng)
